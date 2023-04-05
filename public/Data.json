@@ -1,0 +1,79 @@
+[
+  {
+    "_id": "642c738769cacc95485a81ef",
+    "index": 0,
+    "guid": "a6365ed1-16f6-4522-bcf3-7aa49dbef152",
+    "isActive": true,
+    "balance": "$1,935.36",
+    "picture": "http://placehold.it/32x32",
+    "age": 28,
+    "eyeColor": "blue",
+    "name": "Greer Jarvis"
+  },
+  {
+    "_id": "642c73871aa5c5f1bbf47390",
+    "index": 1,
+    "guid": "40c32d18-b89c-485e-952c-ddf56625b6c0",
+    "isActive": true,
+    "balance": "$3,172.40",
+    "picture": "http://placehold.it/32x32",
+    "age": 21,
+    "eyeColor": "green",
+    "name": "Meghan Hart"
+  },
+  {
+    "_id": "642c73878ad80fb25b5ec956",
+    "index": 2,
+    "guid": "106d48d2-82ab-4b3f-87eb-0fd1b1cdcfb3",
+    "isActive": true,
+    "balance": "$1,379.54",
+    "picture": "http://placehold.it/32x32",
+    "age": 33,
+    "eyeColor": "blue",
+    "name": "Boyle Zimmerman"
+  },
+  {
+    "_id": "642c73874307abdc6b7558d9",
+    "index": 3,
+    "guid": "ec1237da-8cec-4346-ba45-75ee9a47fb40",
+    "isActive": true,
+    "balance": "$2,725.47",
+    "picture": "http://placehold.it/32x32",
+    "age": 39,
+    "eyeColor": "green",
+    "name": "Lila Byers"
+  },
+  {
+    "_id": "642c73877e35be25798d70c5",
+    "index": 4,
+    "guid": "9afa1e49-ecc0-41d3-83f7-aa0a3efd33d8",
+    "isActive": false,
+    "balance": "$1,568.03",
+    "picture": "http://placehold.it/32x32",
+    "age": 24,
+    "eyeColor": "blue",
+    "name": "Whitfield May"
+  },
+  {
+    "_id": "642c7387ddd720fb28bc2ad8",
+    "index": 5,
+    "guid": "5079ddbb-04a0-4f46-afe9-5ba20a5df1a1",
+    "isActive": true,
+    "balance": "$2,600.64",
+    "picture": "http://placehold.it/32x32",
+    "age": 20,
+    "eyeColor": "blue",
+    "name": "Bender Sexton"
+  },
+  {
+    "_id": "642c738718ebd6a3c8a138d2",
+    "index": 6,
+    "guid": "c3dc51c4-8875-4fa2-ad0e-436838ef2a22",
+    "isActive": true,
+    "balance": "$3,060.64",
+    "picture": "http://placehold.it/32x32",
+    "age": 35,
+    "eyeColor": "blue",
+    "name": "Holloway Palmer"
+  }
+]
